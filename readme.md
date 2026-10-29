@@ -16,7 +16,7 @@ I presented the findings at the end of the semester, translating financial data 
 
 ## 📊 Tableau Dashboard
 
-![Flowerama Dashboard](dashboard.png)
+![Flowerama Dashboard](https://github.com/nolanszuch-arch/Flowerama/blob/main/dashboard.png?raw=true)
 
 *Original Tableau dashboard displaying revenue, expenses, profitability, and order-channel performance.*
 
