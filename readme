@@ -1,90 +1,111 @@
-# 🌸 Flowerama | Retail Sales & Profitability Analysis
+🌸 Flowerama | Retail Sales & Profitability Analysis
 
-### Excel & Tableau | Financial Analytics | Business Intelligence
+Excel & Tableau | Financial Analytics | Business Intelligence
 
-## 📊 Project Overview
+📊 Project Overview
 
-This project analyzes the financial and operational performance of a local **Flowerama retail store** as part of a semester-long business analytics project.
+This project analyzes the financial and operational performance of a local Flowerama retail store as part of a semester-long business analytics project.
 
-Using **Microsoft Excel and Tableau**, I tracked revenue, operating expenses, and profit-and-loss performance to better understand the factors influencing store profitability.
+Using Microsoft Excel and Tableau, I tracked revenue, operating expenses, and profit-and-loss performance to better understand the factors influencing store profitability.
 
 The project focused on identifying sales trends, evaluating different order channels, examining operating costs, and translating financial data into meaningful business insights.
 
 The completed analysis was presented at the end of the semester, demonstrating how data visualization and financial reporting can support informed business decisions.
 
-## 🎯 Project Objectives
+🎯 Project Objectives
 
-- Track store revenue, expenses, and profitability.
-- Identify trends in sales performance throughout the week.
-- Compare revenue generated through in-store, online, and delivery orders.
-- Analyze quarterly profit-and-loss performance.
-- Examine the relationship between revenue and operating expenses.
-- Evaluate labor costs as a component of total expenses.
-- Present financial findings through an interactive Tableau dashboard.
+Track store revenue, expenses, and profitability.
 
-## 🛠️ Tools & Technologies
+Identify trends in sales performance throughout the week.
 
-| Tool | Application |
-|---|---|
-| **Microsoft Excel** | Financial data organization, analysis, and profitability tracking |
-| **Tableau** | Dashboard development, financial visualization, and trend analysis |
-| **Data Visualization** | Communicating sales, expense, and profitability patterns |
-| **Financial Analysis** | Evaluating operating performance and profit-and-loss trends |
+Compare revenue generated through in-store, online, and delivery orders.
 
-## 📈 Key Areas of Analysis
+Analyze quarterly profit-and-loss performance.
 
-### 1. Revenue by Day of the Week
+Examine the relationship between revenue and operating expenses.
+
+Evaluate labor costs as a component of total expenses.
+
+Present financial findings through an interactive Tableau dashboard.
+
+🛠️ Tools & Technologies
+
+Tool
+
+Application
+
+Microsoft Excel
+
+Financial data organization, analysis, and profitability tracking
+
+Tableau
+
+Dashboard development, financial visualization, and trend analysis
+
+Data Visualization
+
+Communicating sales, expense, and profitability patterns
+
+Financial Analysis
+
+Evaluating operating performance and profit-and-loss trends
+
+📈 Key Areas of Analysis
+
+1. Revenue by Day of the Week
 
 Analyzed revenue patterns across the seven-day operating week to identify differences in sales performance and potential opportunities for operational improvement.
 
-### 2. Revenue by Order Channel
+2. Revenue by Order Channel
 
 Examined the contribution of in-store, online, and delivery orders to total revenue.
 
-The dashboard highlights that **in-store orders accounted for approximately 43% of total revenue**.
+The dashboard highlights that in-store orders accounted for approximately 43% of total revenue.
 
-### 3. Quarterly Profitability
+3. Quarterly Profitability
 
 Tracked quarterly financial performance to evaluate periods of profitability and loss.
 
 The analysis highlighted a loss in the first quarter followed by improved profitability in the second quarter.
 
-### 4. Revenue vs. Operating Expenses
+4. Revenue vs. Operating Expenses
 
 Compared revenue and expenses to better understand the store's financial performance and the relationship between sales activity and operating costs.
 
-### 5. Labor Expense Analysis
+5. Labor Expense Analysis
 
 Evaluated wages as a component of the store's expense structure.
 
-The dashboard reported that **wages accounted for approximately 24% of total expenses**.
+The dashboard reported that wages accounted for approximately 24% of total expenses.
 
-## 📊 Tableau Dashboard
+📊 Tableau Dashboard
 
 The Tableau dashboard brings together the project's financial and operational analyses, including revenue trends, order channels, quarterly profit and loss, and operating expenses.
 
-![Flowerama Tableau Dashboard](visuals/flowerama-dashboard.png)
 
-## 💡 Business Insights
+
+💡 Business Insights
 
 The analysis provided several observations about retail operations:
 
-- **Sales performance varies by day:** Revenue patterns indicate differences in customer activity throughout the operating week.
-- **Order channels contribute differently:** In-store purchases represent a substantial portion of overall revenue.
-- **Profitability changes over time:** Quarterly analysis highlights the importance of monitoring financial performance across reporting periods.
-- **Operating expenses influence margins:** Understanding labor and other expenses is essential when evaluating store profitability.
+Sales performance varies by day: Revenue patterns indicate differences in customer activity throughout the operating week.
+
+Order channels contribute differently: In-store purchases represent a substantial portion of overall revenue.
+
+Profitability changes over time: Quarterly analysis highlights the importance of monitoring financial performance across reporting periods.
+
+Operating expenses influence margins: Understanding labor and other expenses is essential when evaluating store profitability.
 
 These findings illustrate how financial data can be used to monitor performance, identify trends, and inform operational decisions.
 
-## 🎓 Project Presentation
+🎓 Project Presentation
 
 This analysis was completed as part of a semester-long academic project and presented at the end of the semester.
 
 The final presentation summarized the financial findings and demonstrated how Excel and Tableau could be used to analyze the performance of a local retail business.
 
-## 📁 Repository Structure
+📁 Repository Structure
 
-```text
 Flowerama-Retail-Sales-Analysis/
 │
 ├── README.md
@@ -97,24 +118,29 @@ Flowerama-Retail-Sales-Analysis/
 │
 └── presentation/
     └── Flowerama_Presentation.pptx
-```
 
-## 🧠 Skills Demonstrated
+🧠 Skills Demonstrated
 
-- Microsoft Excel
-- Tableau Dashboard Development
-- Financial Data Analysis
-- Revenue and Expense Tracking
-- Profit-and-Loss Analysis
-- Retail Sales Analytics
-- Data Visualization
-- Business Performance Reporting
-- Presentation and Communication
+Microsoft Excel
 
----
+Tableau Dashboard Development
 
-**Project Type:** Academic Business Analytics Project
+Financial Data Analysis
 
-**Industry:** Retail / Floral Services
+Revenue and Expense Tracking
 
-**Primary Tools:** Microsoft Excel and Tableau
+Profit-and-Loss Analysis
+
+Retail Sales Analytics
+
+Data Visualization
+
+Business Performance Reporting
+
+Presentation and Communication
+
+Project Type: Academic Business Analytics Project
+
+Industry: Retail / Floral Services
+
+Primary Tools: Microsoft Excel and Tableau
